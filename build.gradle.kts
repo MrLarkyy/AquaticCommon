@@ -17,7 +17,7 @@ repositories {
 val exposedVersion = "1.2.0"
 dependencies {
     testImplementation(kotlin("test"))
-    compileOnly("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.10.2")
+    compileOnly("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.11.0")
     compileOnly("io.papermc.paper:paper-api:1.21.11-R0.1-SNAPSHOT")
     api("org.slf4j:slf4j-api:2.0.17")
 
