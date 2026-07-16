@@ -26,7 +26,7 @@ dependencies {
     api("org.jetbrains.exposed:exposed-jdbc:$exposedVersion")
     api("gg.aquatic:Dispatch:26.0.5")
     api("gg.aquatic:Dispatch-bukkit:26.0.5")
-    api("com.zaxxer:HikariCP:7.0.2")
+    api("com.zaxxer:HikariCP:7.1.0")
 }
 
 kotlin {
